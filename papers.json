@@ -43,7 +43,7 @@
 							"authors":"Xin Wang, Shuhui Chen, Jinshu Su.",
 							"pubinfo":"Wireless Communications and Mobile Computing 2020: 4707909:1-4707909:14 (2020)",
 							"filename":"xinreal.pdf"
-						},
+						}
 					]
 				},
 
@@ -132,7 +132,7 @@
 							"authors":"Shaofei Lu, Qian Zeng, Heng Wu, Jinshu Su, Xuchong Liu, Hongliang Tang:",
 							"pubinfo":"HPCC/SmartCity/DSS 2019: 2305-2310",
 							"filename":"shaofeianew.pdf"
-						},
+						}
 
 					]
 				}
@@ -208,7 +208,7 @@
 							"authors":"Hanwen Wang, Biao Han, Jinshu Su, Xiaoyan Wang:",
 							"pubinfo":"SmartWorld/SCALCOM/UIC/ATC/CBDCom/IOP/SCI 2018: 1803-1810",
 							"filename":"hanwenahighperformance.pdf"
-						},
+						}
 
 					]
 				}
@@ -489,8 +489,7 @@
 							"authors":"Mian Cheng, Baokang Zhao, Jinshu Su:",
 							"pubinfo":"SpaCCS Workshops 2016: 229-237",
 							"filename":"mianarealtimeprocessing.pdf"
-						},
-
+						}
 
 					]
 				}
@@ -657,7 +656,7 @@
 							"authors":"Peixin Chen, Xiaofeng Wang, Yilun Wu, Jinshu Su, Huan Zhou:",
 							"pubinfo":"ACM Conference on Computer and Communications Security 2015: 1632-1634",
 							"filename":"peixinposter.pdf"
-						},
+						}
 
 					]
 				}
@@ -761,7 +760,7 @@
 							"title":"SPS: A Novel Semantics-Aware Scheme for Location Privacy in People-Centric Sensing Network.",
 							"pubinfo":"WASA 2014: 324-335",
 							"filename":"zilingsps.pdf"
-						},
+						}
 
 					]
 				}
@@ -893,8 +892,7 @@
 							"title":"Frontiers in Internet Technologies - Second CCF Internet Conference of China, ICoC 2013, Zhangjiajie, China, July 10, 2013, Revised Selected Papers.",
 							"pubinfo":" Communications in Computer and Information Science 401, Springer 2013, ISBN 978-3-642-53958-9 ",
 							"filename":"jinshufrontiers.pdf"
-						},
-
+						}
 
 					]
 				}
@@ -1068,7 +1066,7 @@
 							"title":"A Fast Algorithm to Find All-Pairs Shortest Paths in Complex Networks.",
 							"pubinfo":"ICCS 2012: 557-566",
 							"filename":"weiafast.pdf"
-						},
+						}
 					]
 				}
 
@@ -1195,7 +1193,7 @@
 							"title":"Study on IP Prefix Hijacking in Cloud Computing Networks Based on Attack Planning. ",
 							"pubinfo":"TrustCom 2011: 922-926",
 							"filename":"yujingstudyon.pdf"
-						},
+						}
 					]
 				}
 
@@ -1285,8 +1283,7 @@
 							"title":"A Simple Effective Scheme to Enhance the Capability of Web Servers Using P2P Networks.",
 							"pubinfo":"ICPP 2010: 680-689",
 							"filename":"jiesimple.pdf"
-						},
-
+						}
 
 					]
 				}
@@ -1383,7 +1380,7 @@
 							"title":"Network Access Control Mechanism Based on Locator/Identifier Split.",
 							"pubinfo":"NAS 2009: 171-174",
 							"filename":"ruinetwork.pdf"
-						},
+						}
 
 					]
 				}
@@ -1466,7 +1463,7 @@
 							"title":"Topology Aware Task Allocation and Scheduling for Real-Time Data Fusion Applications in Networked Embedded Sensor Systems.",
 							"pubinfo":"RTCSA 2008: 293-302",
 							"filename":"baokangtopologyaware.pdf"
-						},
+						}
 
 					]
 				}
@@ -1514,8 +1511,7 @@
 							"title":"LBKERS: A New Efficient Key Management Scheme for Wireless Sensor Networks.",
 							"pubinfo":"MSN 2007: 772-783",
 							"filename":"yingzhilbkers.pdf"
-						},
-
+						}
 
 					]
 				}
@@ -1570,10 +1566,7 @@
 							"title":"Delay-Bounded Range Queries in DHT-based Peer-to-Peer Systems.",
 							"pubinfo":"ICDCS 2006: 64",
 							"filename":"dongshengdelay.pdf"
-						},
-
-
-
+						}
 					]
 				}
 
@@ -1585,9 +1578,7 @@
 							"title":"OpenRouter: A TCP-Based Lightweight Protocol for Control Plane and Forwarding Plane Communication.",
 							"pubinfo":"ICCNMC 2005: 1032-1041",
 							"filename":"fengopen.pdf"
-						},
-
-
+						}
 					]
 				}
 
@@ -1613,8 +1604,7 @@
 							"title":"Graph-Theoretic Analysis of Kautz Topology and DHT Schemes.",
 							"pubinfo":"NPC 2004: 308-315",
 							"filename":"dongshenggraph.pdf"
-						},
-
+						}
 					]
 				}
 
@@ -1626,8 +1616,7 @@
 							"title":"Using Split Queues to Improve the Performance of Parallel Switch.",
 							"pubinfo":"APPT 2003: 3-11",
 							"filename":"xiaofengusing.pdf"
-						},
-
+						}
 					]
 				}
 	]

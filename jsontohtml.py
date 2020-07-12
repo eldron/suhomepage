@@ -10,7 +10,11 @@ j = json.loads(file.read())
 file.close()
 
 for item in j["papers"]:
-	out.write("<h4><FONT COLOR=\"#0080C0\">-" + item["year"] + "-</FONT><span style=\"font-size:15px;\"></h4><ul>")
+	out.write("<h4><FONT COLOR=\"#0080C0\">-" + item["year"] + "-</FONT><span style=\"font-size:15px;\"></h4>")
 	for paper in item["content"]:
-		out.write("<li> <b>" + paper["title"] + "</b>" + paper["authors"] + "<FONT COLOR=\"#0080C0\">" + paper["pubinfo"] + "</FONT> ")
+		if ":" in paper["authors"]:
+			authors = paper["authors"]
+		else:
+			authors = paper["authors"][:-1] + "."
+		out.write("<li> <b>" + paper["title"] + "</b>" + authors + "<FONT COLOR=\"#0080C0\">" + paper["pubinfo"] + "</FONT> ")
 		out.write("[<a href=\"./static/" + paper["filename"] + "\"" + "><FONT COLOR=\"#0080C0\"> PDF </FONT> </a>]</li>")

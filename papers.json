@@ -94,14 +94,14 @@
 
 						{
 							"title":"Cooperative Sensing in Cognitive Radio Ad Hoc Networks.",
-							"authors":"	Ziling Wei, Baokang Zhao, Jinshu Su:",
+							"authors":"Ziling Wei, Baokang Zhao, Jinshu Su:",
 							"pubinfo":"ICC 2019: 1-6",
 							"filename":"zilingcooperative.pdf"
 						},
 
 						{
 							"title":"A Heterogeneous Parallel Packet Processing Architecture for NFV Acceleration.",
-							"authors":"	Jinshu Su, Biao Han, Gaofeng Lv, Tao Li, Zhigang Sun:",
+							"authors":"Jinshu Su, Biao Han, Gaofeng Lv, Tao Li, Zhigang Sun:",
 							"pubinfo":" ICNP 2019: 1-2",
 							"filename":"jinshua.pdf"
 						},
@@ -135,7 +135,7 @@
 						}
 
 					]
-				}
+				},
 
 				{
 					"year":"2018",
@@ -156,7 +156,7 @@
 
 						{
 							"title":"CSR: Classified Source Routing in Distributed Networks. ",
-							"authors":"	Yiming Zhang, Dongsheng Li, Zhigang Sun, Feng Zhao, Jinshu Su, Xicheng Lu:",
+							"authors":"Yiming Zhang, Dongsheng Li, Zhigang Sun, Feng Zhao, Jinshu Su, Xicheng Lu:",
 							"pubinfo":"IEEE Trans. Cloud Comput. 6(2): 464-477 (2018)",
 							"filename":"yimingcsr.pdf"
 						},
@@ -177,7 +177,7 @@
 
 						{
 							"title":"CloudsStorm: An Application-Driven Framework to Enhance the Programmability and Controllability of Cloud Virtual Infrastructures.",
-							"authors":"	Huan Zhou, Yang Hu, Jinshu Su, Cees de Laat, Zhiming Zhao:",
+							"authors":"Huan Zhou, Yang Hu, Jinshu Su, Cees de Laat, Zhiming Zhao:",
 							"pubinfo":"CLOUD 2018: 265-280",
 							"filename":"huancloudstorman.pdf"
 						},
@@ -211,7 +211,7 @@
 						}
 
 					]
-				}
+				},
 
 				{
 					"year":"2017",
@@ -225,7 +225,7 @@
 
 						{
 							"title":"A systematic review of structured sparse learning. ",
-							"authors":"	Lin-Bo Qiao, Bo-Feng Zhang, Jinshu Su, Xicheng Lu:",
+							"authors":"Lin-Bo Qiao, Bo-Feng Zhang, Jinshu Su, Xicheng Lu:",
 							"pubinfo":"Frontiers Inf. Technol. Electron. Eng. 18(4): 445-463 (2017)",
 							"filename":"linboasystematic.pdf"
 						},
@@ -260,7 +260,7 @@
 
 						{
 							"title":"EffiEye: Application-aware Large Flow Detection in Data Center.",
-							"authors":"	Binfeng Wang, Jinshu Su, Lin Chen, Jinsheng Deng, Long Zheng:",
+							"authors":"Binfeng Wang, Jinshu Su, Lin Chen, Jinsheng Deng, Long Zheng:",
 							"pubinfo":"CCGrid 2017: 794-796",
 							"filename":"binfengeffieye.pdf"
 						},
@@ -281,7 +281,7 @@
 
 						{
 							"title":"Automatic privacy leakage detection for massive android apps via a novel hybrid approach. ",
-							"authors":"	Hongyi Chen, Ho-fung Leung, Biao Han, Jinshu Su:",
+							"authors":"Hongyi Chen, Ho-fung Leung, Biao Han, Jinshu Su:",
 							"pubinfo":"ICC 2017: 1-7",
 							"filename":"hongyiautomatic.pdf"
 						},
@@ -308,7 +308,7 @@
 						}
 
 					]
-				}
+				},
 
 				{
 					"year":"2016",
@@ -359,7 +359,7 @@
 
 						{
 							"title":"An Efficient Searchable Encryption Against Keyword Guessing Attacks for Sharable Electronic Medical Records in Cloud-based System.",
-							"authors":"	Yilun Wu, Xicheng Lu, Jinshu Su, Peixin Chen:",
+							"authors":"Yilun Wu, Xicheng Lu, Jinshu Su, Peixin Chen:",
 							"pubinfo":"J. Medical Syst. 40(12): 258:1-258:9 (2016)",
 							"filename":"yilunanefficient.pdf"
 						},
@@ -375,7 +375,7 @@
 
 						{
 							"title":"Optimizing link rate assignment and transmission scheduling in WMN through compatible set generation.",
-							"authors":"	Yuan Li, Michal Pióro, Di Yuan, Jinshu Su:",
+							"authors":"Yuan Li, Michal Pióro, Di Yuan, Jinshu Su:",
 							"pubinfo":"Telecommunication Systems 61(2): 325-335 (2016)",
 							"filename":"yuanoptimizing.pdf"
 						},
@@ -399,7 +399,7 @@
 
 						{
 							"title":"Linearized Alternating Direction Method of Multipliers for Constrained Nonconvex Regularized Optimization.",
-							"authors":"	Linbo Qiao, Bofeng Zhang, Jinshu Su, Xicheng Lu:",
+							"authors":"Linbo Qiao, Bofeng Zhang, Jinshu Su, Xicheng Lu:",
 							"pubinfo":" ACML 2016: 97-109",
 							"filename":"linbolinearized.pdf"
 						},
@@ -463,7 +463,7 @@
 
 						{
 							"title":"Rigidly Self-Expressive Sparse Subspace Clustering.",
-							"authors":"	Linbo Qiao, Bofeng Zhang, Yipin Sun, Jinshu Su:",
+							"authors":"Linbo Qiao, Bofeng Zhang, Yipin Sun, Jinshu Su:",
 							"pubinfo":"PAKDD Workshops 2016: 101-114",
 							"filename":"libboregidly.pdf"
 						},
@@ -479,7 +479,7 @@
 
 						{
 							"title":"A 60Gbps DPI Prototype based on Memory-Centric FPGA.",
-							"authors":"	Jinshu Su, Shuhui Chen, Biao Han, Chengcheng Xu, Xin Wang:",
+							"authors":"Jinshu Su, Shuhui Chen, Biao Han, Chengcheng Xu, Xin Wang:",
 							"pubinfo":"SIGCOMM 2016: 627-628",
 							"filename":"jinshua60.pdf"
 						},
@@ -491,8 +491,9 @@
 							"filename":"mianarealtimeprocessing.pdf"
 						}
 
+
 					]
-				}
+				},
 
 				{
 					"year":"2015",
@@ -506,14 +507,14 @@
 
 						{
 							"title":"Improving application layer multicast forwarding performance by offloading multisend operations.",
-							"authors":"	Jijun Cao, Jinshu Su:",
+							"authors":"Jijun Cao, Jinshu Su:",
 							"pubinfo":"Comput. Syst. Sci. Eng. 30(3) (2015)",
 							"filename":"jijunimproving.pdf"
 						},
 
 						{
 							"title":"Trust Description and Propagation System: Semantics and axiomatization.",
-							"authors":"	Xiaofeng Wang, Jinshu Su, Baosheng Wang, Guojun Wang, Ho-fung Leung:",
+							"authors":"Xiaofeng Wang, Jinshu Su, Baosheng Wang, Guojun Wang, Ho-fung Leung:",
 							"pubinfo":"Knowl. Based Syst. 90: 81-91 (2015)",
 							"filename":"xiaofengtrust.pdf"
 						},
@@ -527,7 +528,7 @@
 
 						{
 							"title":"Security, trust, and resilience of distributed networks and systems.",
-							"authors":"	Jinshu Su, Xiaofeng Wang, Weisong Shi, Indrakshi Ray:",
+							"authors":"Jinshu Su, Xiaofeng Wang, Weisong Shi, Indrakshi Ray:",
 							"pubinfo":" Security and Communication Networks 8(10): 1829-1830 (2015)",
 							"filename":"jinshusecurity.pdf"
 						},
@@ -562,14 +563,14 @@
 
 						{
 							"title":"An Escrow-Free Hierarchical Identity-Based Signature Scheme from Composite Order Bilinear Groups.",
-							"authors":"	Peixin Chen, Xiaofeng Wang, Yilun Wu, Jinshu Su, Huan Zhou:",
+							"authors":"Peixin Chen, Xiaofeng Wang, Yilun Wu, Jinshu Su, Huan Zhou:",
 							"pubinfo":"ACM Conference on Computer and Communications Security 2015: 1632-1634",
 							"filename":"peixinanescrowhierarchical.pdf"
 						},
 
 						{
 							"title":"A Hierarchical Identity-Based Signature from Composite Order Bilinear Groups.",
-							"authors":"	Peixin Chen, Xiaofeng Wang, Jinshu Su:",
+							"authors":"Peixin Chen, Xiaofeng Wang, Jinshu Su:",
 							"pubinfo":"ICA3PP (Workshops and Symposiums) 2015: 46-56",
 							"filename":"peixinahierarchical.pdf"
 						},
@@ -659,7 +660,7 @@
 						}
 
 					]
-				}
+				},
 
 				{
 					"year":"2014",
@@ -700,7 +701,7 @@
 						},
 
 						{
-							"authors":"	Yujing Liu, Wei Peng, Jinshu Su:",
+							"authors":"Yujing Liu, Wei Peng, Jinshu Su:",
 							"title":"A study of IP prefix hijacking in cloud computing networks. ",
 							"pubinfo":"Security and Communication Networks 7(11): 2201-2210 (2014)",
 							"filename":"yujingastudy.pdf"
@@ -763,13 +764,13 @@
 						}
 
 					]
-				}
+				},
 
 				{
 					"year":"2013",
 					"content":[
 						{
-							"authors":"	Ruilin Li, Chao Li, Jinshu Su, Bing Sun:",
+							"authors":"Ruilin Li, Chao Li, Jinshu Su, Bing Sun:",
 							"title":"Security evaluation of MISTY structure with SPN round function.",
 							"pubinfo":"Comput. Math. Appl. 65(9): 1264-1279 (2013)",
 							"filename":"ruilinsecurity.pdf"
@@ -825,7 +826,7 @@
 						},
 
 						{
-							"authors":"	Biao Han, Jie Li, Jinshu Su:",
+							"authors":"Biao Han, Jie Li, Jinshu Su:",
 							"title":"Optimal relay assignment for secrecy capacity maximization in cooperative ad-hoc networks.",
 							"pubinfo":"ICC 2013: 6128-6132",
 							"filename":"biaooptimal.pdf"
@@ -839,7 +840,7 @@
 						},
 
 						{
-							"authors":"	Peidai Xie, Yongjun Wang, Huabiao Lu, Meijian Li, Jinshu Su:",
+							"authors":"Peidai Xie, Yongjun Wang, Huabiao Lu, Meijian Li, Jinshu Su:",
 							"title":"Mining Network Behavior Specifications of Malware Based on Binary Analysis.",
 							"pubinfo":"ICoC 2013: 248-255",
 							"filename":"peidaimining.pdf"
@@ -894,8 +895,9 @@
 							"filename":"jinshufrontiers.pdf"
 						}
 
+
 					]
-				}
+				},
 
 				{
 					"year":"2012",
@@ -922,7 +924,7 @@
 						},
 
 						{
-							"authors":"	Baokang Zhao, Dan Wang, Zili Shao, Jiannong Cao, Jinshu Su:",
+							"authors":"Baokang Zhao, Dan Wang, Zili Shao, Jiannong Cao, Jinshu Su:",
 							"title":"Privacy aware publishing of successive location information in sensor networks.",
 							"pubinfo":"Future Gener. Comput. Syst. 28(6): 913-922 (2012)",
 							"filename":"baokangprivacy.pdf"
@@ -950,7 +952,7 @@
 						},
 
 						{
-							"authors":"	Lijun Wu, Kaile Su, Abdul Sattar, Qingliang Chen, Jinshu Su, Wei Wu:",
+							"authors":"Lijun Wu, Kaile Su, Abdul Sattar, Qingliang Chen, Jinshu Su, Wei Wu:",
 							"title":"A complete first-order temporal BDI logic for forest multi-agent systems.",
 							"pubinfo":"Knowl. Based Syst. 27: 343-351 (2012)",
 							"filename":"lijunacomplete.pdf"
@@ -1048,7 +1050,7 @@
 						},
 
 						{
-							"authors":"	Yujing Liu, Xiapu Luo, Rocky K. C. Chang, Jinshu Su:",
+							"authors":"Yujing Liu, Xiapu Luo, Rocky K. C. Chang, Jinshu Su:",
 							"title":"Characterizing Inter-domain Rerouting after Japan Earthquake. ",
 							"pubinfo":"Networking (2) 2012: 124-135",
 							"filename":"yujingcharacterizinginter.pdf"
@@ -1062,26 +1064,26 @@
 						},
 
 						{
-							"authors":"	Wei Peng, Xiaofeng Hu, Feng Zhao, Jinshu Su:",
+							"authors":"Wei Peng, Xiaofeng Hu, Feng Zhao, Jinshu Su:",
 							"title":"A Fast Algorithm to Find All-Pairs Shortest Paths in Complex Networks.",
 							"pubinfo":"ICCS 2012: 557-566",
 							"filename":"weiafast.pdf"
 						}
 					]
-				}
+				},
 
 				{
 					"year":"2011",
 					"content":[
 						{
-							"authors":"	Jijun Cao, Jinshu Su, Jing Xie, Feng Chen:",
+							"authors":"Jijun Cao, Jinshu Su, Jing Xie, Feng Chen:",
 							"title":"DBMISD-D: A distributed algorithm for constructing and maintaining high stability application-layer multicast tree.",
 							"pubinfo":"Comput. Syst. Sci. Eng. 26(5) (2011)",
 							"filename":"jijundbmisdd.pdf"
 						},
 
 						{
-							"authors":"	Xiaofeng Wang, Chee Shin Yeo, Rajkumar Buyya, Jinshu Su:",
+							"authors":"Xiaofeng Wang, Chee Shin Yeo, Rajkumar Buyya, Jinshu Su:",
 							"title":"Optimizing the makespan and reliability for workflow applications with reputation and a look-ahead genetic algorithm. ",
 							"pubinfo":" Future Gener. Comput. Syst. 27(8): 1124-1134 (2011)",
 							"filename":"xiaofengoptimizing.pdf"
@@ -1111,7 +1113,7 @@
 							"filename":"xiaozhesdbgp.pdf"
 						},
 						{
-							"authors":"	Feng Wang, Bin Dai, Jinshu Su:",
+							"authors":"Feng Wang, Bin Dai, Jinshu Su:",
 							"title":"How Can Multipath Dissemination Help to Detect Prefix Hijacking? ",
 							"pubinfo":" ICCCN 2011: 1-8",
 							"filename":"fenghowcan.pdf"
@@ -1123,7 +1125,7 @@
 							"filename":"baokangntc.pdf"
 						},
 						{
-							"authors":"	Lei Wang, Shuhui Chen, Yong Tang, Jinshu Su:",
+							"authors":"Lei Wang, Shuhui Chen, Yong Tang, Jinshu Su:",
 							"title":"Gregex: GPU Based High Speed Regular Expression Matching Engine.",
 							"pubinfo":" IMIS 2011: 366-370",
 							"filename":"leigregex.pdf"
@@ -1165,7 +1167,7 @@
 							"filename":"zhengqianshrew.pdf"
 						},
 						{
-							"authors":"	Xiangyu Su, Jinzhen Bao, Baokang Zhao, Jinshu Su:",
+							"authors":"Xiangyu Su, Jinzhen Bao, Baokang Zhao, Jinshu Su:",
 							"title":"Protecting Router Forwarding Table in Space.",
 							"pubinfo":"MSN 2011: 446-450",
 							"filename":"xiaoyuprotecting.pdf"
@@ -1195,7 +1197,7 @@
 							"filename":"yujingstudyon.pdf"
 						}
 					]
-				}
+				},
 
 
 				{
@@ -1244,7 +1246,7 @@
 						},
 
 						{
-							"authors":"	Yipin Sun, Xiangyu Su, Baokang Zhao, Jinshu Su:",
+							"authors":"Yipin Sun, Xiangyu Su, Baokang Zhao, Jinshu Su:",
 							"title":"Mix-zones Deployment for Location Privacy Preservation in Vehicular Communications. ",
 							"pubinfo":"CIT 2010: 2825-2830",
 							"filename":"yipinmixzonesdep.pdf"
@@ -1285,8 +1287,9 @@
 							"filename":"jiesimple.pdf"
 						}
 
+
 					]
-				}
+				},
 
 				{
 					"year":"2009",
@@ -1362,7 +1365,7 @@
 						},
 
 						{
-							"authors":"	YingZhi Zeng, Xia Yan, Jinshu Su:",
+							"authors":"YingZhi Zeng, Xia Yan, Jinshu Su:",
 							"title":"A new Group Key Management Scheme based on DMST for Wireless Sensor Networks.",
 							"pubinfo":"MASS 2009: 989-994",
 							"filename":"yingzhinewgroup.pdf"
@@ -1383,20 +1386,20 @@
 						}
 
 					]
-				}
+				},
 
 				{
 					"year":"2008",
 					"content":[
 						{
-							"authors":"	Yi Dai, Jinshu Su, Ying Zhang:",
+							"authors":"Yi Dai, Jinshu Su, Ying Zhang:",
 							"title":"A coordination scheduling mechanism to guarantee packet ordering in parallel packet switch.",
 							"pubinfo":"IJESDF 1(4): 362-373 (2008)",
 							"filename":"yidai.pdf"
 						},
 
 						{
-							"authors":"	Feng Chen, Lingyu Wang, Jinshu Su:",
+							"authors":"Feng Chen, Lingyu Wang, Jinshu Su:",
 							"title":"An Efficient Approach to Minimum-Cost Network Hardening Using Attack Graphs.",
 							"pubinfo":"IAS 2008: 209-212",
 							"filename":"fengefficient.pdf"
@@ -1466,13 +1469,13 @@
 						}
 
 					]
-				}
+				},
 
 				{
 					"year":"2007",
 					"content":[
 						{
-							"authors":"	Jijun Cao, Xiangquan Shi, Chunqing Wu, Jinshu Su, Zhaowei Meng:",
+							"authors":"Jijun Cao, Xiangquan Shi, Chunqing Wu, Jinshu Su, Zhaowei Meng:",
 							"title":"Efficient Congestion Control Based on Awareness of Multistage Resources (CC-AMR).",
 							"pubinfo":"APNOMS 2007: 608-611",
 							"filename":"jijunefficient.pdf"
@@ -1486,14 +1489,14 @@
 						},
 
 						{
-							"authors":"	Jijun Cao, Jinshu Su, Chunqing Wu:",
+							"authors":"Jijun Cao, Jinshu Su, Chunqing Wu:",
 							"title":"Using NIC-Based Multicast Scheme to Improve Forwarding Rate for Application Layer Multicast.",
 							"pubinfo":"APSCC 2007: 179-186",
 							"filename":"jijunusing.pdf"
 						},
 
 						{
-							"authors":"	YingZhi Zeng, Baokang Zhao, Jinshu Su, Xia Yan, Zili Shao:",
+							"authors":"YingZhi Zeng, Baokang Zhao, Jinshu Su, Xia Yan, Zili Shao:",
 							"title":"A Loop-Based Key Management Scheme for Wireless Sensor Networks.",
 							"pubinfo":"EUC Workshops 2007: 103-114",
 							"filename":"yingzhiloop.pdf"
@@ -1513,8 +1516,9 @@
 							"filename":"yingzhilbkers.pdf"
 						}
 
+
 					]
-				}
+				},
 
 				{
 					"year":"2006",
@@ -1567,8 +1571,11 @@
 							"pubinfo":"ICDCS 2006: 64",
 							"filename":"dongshengdelay.pdf"
 						}
+
+
+
 					]
-				}
+				},
 
 				{
 					"year":"2005",
@@ -1579,14 +1586,16 @@
 							"pubinfo":"ICCNMC 2005: 1032-1041",
 							"filename":"fengopen.pdf"
 						}
+
+
 					]
-				}
+				},
 
 				{
 					"year":"2004",
 					"content":[
 						{
-							"authors":"	Jing Zheng, Jinshu Su, Kan Yang, Yijie Wang:",
+							"authors":"Jing Zheng, Jinshu Su, Kan Yang, Yijie Wang:",
 							"title":"Stable Neighbor Based Adaptive Replica Allocation in Mobile Ad Hoc Networks.",
 							"pubinfo":" International Conference on Computational Science 2004: 373-380",
 							"filename":"jingstable.pdf"
@@ -1605,8 +1614,9 @@
 							"pubinfo":"NPC 2004: 308-315",
 							"filename":"dongshenggraph.pdf"
 						}
+
 					]
-				}
+				},
 
 				{
 					"year":"2003",
@@ -1617,6 +1627,7 @@
 							"pubinfo":"APPT 2003: 3-11",
 							"filename":"xiaofengusing.pdf"
 						}
+
 					]
 				}
 	]

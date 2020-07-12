@@ -1,0 +1,7 @@
+Ye Peng, Wentao Zhao, Wei Cai, Jinshu Su, Biao Han, Qiang Liu:
+Evaluating Deep Learning for Image Classification in Adversarial Environment.
+IEICE Trans. Inf. Syst. 103-D(4): 825-837 (2020)
+
+Jiaxian Lv, Yi Wang, Jinshu Su, Rongmao Chen, Wenjun Wu:
+Security of Auditing Protocols Against Subversion Attacks.
+Int. J. Found. Comput. Sci. 31(2): 193-206 (2020)

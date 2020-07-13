@@ -1,0 +1,664 @@
+{
+	"papers":[
+		{
+			"year":"2016",
+			"content":[
+				{
+					"title":"一种可信安全的层次式基于身份加密系统.",
+					"authors":"王小峰 陈培鑫 周寰 苏金树.",
+					"pubinfo":"电子学报, 2016, (07): ",
+					"filename":"一种可信安全的层次式基于身份加密系统.pdf"
+				},
+
+				{
+					"title":"云计算数据中心网络设计综述.",
+					"authors":"王斌锋 苏金树 陈琳.",
+					"pubinfo":"计算机研究与发展, 2016, (09): 2085-2107",
+					"filename":"云计算数据中心网络设计综述.pdf"
+				}
+
+			]
+		},
+
+		{
+			"year":"2015",
+			"content":[
+				{
+					"title":"一种面向服务满意度的卫星网络数据流接纳控制决策机制.",
+					"authors":"丁皓 孙一品 赵宝康 赵志军 苏金树.",
+					"pubinfo":"小型微型计算机系统, 2015, (01): 411-411",
+					"filename":"一种面向服务满意度的卫星网络数据流接纳控制决策机制.pdf"
+				}
+			]
+		},
+
+		{
+			"year":"2014",
+			"content":[
+				{
+					"title":"负载均衡感知的无线传感器网络容错分簇算法.",
+					"authors":"苏金树 郭文忠 余朝龙 陈国龙.",
+					"pubinfo":"计算机学报, 2014, (02): 445-457",
+					"filename":"负载均衡感知的无线传感器网络容错分簇算法.pdf"
+				}
+			]
+		},
+
+		{
+			"year":"2012",
+			"content":[
+				{
+					"title":"MFT~2-BGP:基于多转发树的无中断域间路由协议.",
+					"authors":"胡乔林 彭伟 陈新 苏金树.",
+					"pubinfo":"计算机学报, 2012, (10): -",
+					"filename":"基于多转发树的无中断域间路由协议.pdf"
+				},
+
+				{
+					"title":"域间多路径路由协议.",
+					"authors":"苏金树 戴斌 刘宇靖 彭伟.",
+					"pubinfo":"软件学报, 2012, (01): - ",
+					"filename":"域间多路径路由协议.pdf"
+				},
+
+				{
+					"title":"基于流映射的负载均衡调度算法研究.",
+					"authors":"戴艺 苏金树 孙志刚.",
+					"pubinfo":"计算机学报, 2012, (02): - ",
+					"filename":"基于流映射的负载均衡调度算法研究.pdf"
+				}
+			]
+		},
+
+		{
+			"year":"2011",
+			"content":[
+				{
+					"title":"基于威胁传播模型的层次化网络安全评估方法.",
+					"authors":"陈锋 刘德辉 张怡 苏金树.",
+					"pubinfo":"计算机研究与发展, 2011, (06): 945-955 ",
+					"filename":"基于威胁传播模型的层次化网络安全评估方法.pdf"
+				},
+
+				{
+					"title":"IBS216Q交换机设计与实现.",
+					"authors":"吕高锋 苏金树 孙志刚 崔向东.",
+					"pubinfo":"计算机研究与发展, 2011, (S1): ",
+					"filename":"IBS216Q交换机设计与实现.pdf"
+				},
+
+				{
+					"title":"BAR-BGP:基于备份通告和恢复转发的可靠域间路由.",
+					"authors":"胡乔林 孙一品 苏金树.",
+					"pubinfo":"计算机研究与发展, 2011, (12): ",
+					"filename":"基于备份通告和恢复转发的可靠域间路由.pdf"
+				},
+
+				{
+					"title":"BA-BGP:一种基于备份AS通告的域间路由协议.",
+					"authors":"胡乔林 苏金树.",
+					"pubinfo":"计算机工程与科学, 2011, (01): 1-7",
+					"filename":"一种基于备份AS通告的域间路由协议.pdf"
+				},
+
+				{
+					"title":"属性基加密机制.",
+					"authors":"苏金树 曹丹 王小峰 孙一品 胡乔林.",
+					"pubinfo":"软件学报, 2011, (06): 1299-1316 ",
+					"filename":"属性基加密机制.pdf"
+				},
+
+				{
+					"title":"一种开放网络环境下的分布式信任证明算法.",
+					"authors":"王小峰 马延鹏 苏金树 . ",
+					"pubinfo":"计算机工程与科学, 2011, (06): 1-6 ",
+					"filename":"一种开放网络环境下的分布式信任证明算法.pdf"
+				}
+			]
+		},
+
+		{
+			"year":"2010",
+			"content":[
+				{
+					"title":"",
+					"authors":"",
+					"pubinfo":"",
+					"filename":""
+				},
+
+				{
+					"title":"",
+					"authors":"",
+					"pubinfo":"",
+					"filename":""
+				},
+
+				{
+					"title":"",
+					"authors":"",
+					"pubinfo":"",
+					"filename":""
+				},
+
+				{
+					"title":"",
+					"authors":"",
+					"pubinfo":"",
+					"filename":""
+				},
+
+				{
+					"title":"",
+					"authors":"",
+					"pubinfo":"",
+					"filename":""
+				},
+
+				{
+					"title":"",
+					"authors":"",
+					"pubinfo":"",
+					"filename":""
+				},
+
+				{
+					"title":"",
+					"authors":"",
+					"pubinfo":"",
+					"filename":""
+				},
+
+				{
+					"title":"",
+					"authors":"",
+					"pubinfo":"",
+					"filename":""
+				},
+
+				{
+					"title":"",
+					"authors":"",
+					"pubinfo":"",
+					"filename":""
+				}
+			]
+		},
+
+		{
+			"year":"2009",
+			"content":[
+				{
+					"title":"",
+					"authors":"",
+					"pubinfo":"",
+					"filename":""
+				},
+
+				{
+					"title":"",
+					"authors":"",
+					"pubinfo":"",
+					"filename":""
+				},
+
+				{
+					"title":"",
+					"authors":"",
+					"pubinfo":"",
+					"filename":""
+				},
+
+				{
+					"title":"",
+					"authors":"",
+					"pubinfo":"",
+					"filename":""
+				},
+
+				{
+					"title":"",
+					"authors":"",
+					"pubinfo":"",
+					"filename":""
+				},
+
+				{
+					"title":"",
+					"authors":"",
+					"pubinfo":"",
+					"filename":""
+				},
+
+				{
+					"title":"",
+					"authors":"",
+					"pubinfo":"",
+					"filename":""
+				},
+
+				{
+					"title":"",
+					"authors":"",
+					"pubinfo":"",
+					"filename":""
+				},
+
+				{
+					"title":"",
+					"authors":"",
+					"pubinfo":"",
+					"filename":""
+				},
+				{
+					"title":"",
+					"authors":"",
+					"pubinfo":"",
+					"filename":""
+				},
+				{
+					"title":"",
+					"authors":"",
+					"pubinfo":"",
+					"filename":""
+				}
+			]
+		},
+
+		{
+			"year":"2008",
+			"content":[
+				{
+					"title":"",
+					"authors":"",
+					"pubinfo":"",
+					"filename":""
+				},
+
+				{
+					"title":"",
+					"authors":"",
+					"pubinfo":"",
+					"filename":""
+				},
+
+				{
+					"title":"",
+					"authors":"",
+					"pubinfo":"",
+					"filename":""
+				},
+
+				{
+					"title":"",
+					"authors":"",
+					"pubinfo":"",
+					"filename":""
+				},
+
+				{
+					"title":"",
+					"authors":"",
+					"pubinfo":"",
+					"filename":""
+				},
+
+				{
+					"title":"",
+					"authors":"",
+					"pubinfo":"",
+					"filename":""
+				},
+
+				{
+					"title":"",
+					"authors":"",
+					"pubinfo":"",
+					"filename":""
+				},
+
+				{
+					"title":"",
+					"authors":"",
+					"pubinfo":"",
+					"filename":""
+				},
+
+				{
+					"title":"",
+					"authors":"",
+					"pubinfo":"",
+					"filename":""
+				},
+				{
+					"title":"",
+					"authors":"",
+					"pubinfo":"",
+					"filename":""
+				},
+				{
+					"title":"",
+					"authors":"",
+					"pubinfo":"",
+					"filename":""
+				},
+				{
+					"title":"",
+					"authors":"",
+					"pubinfo":"",
+					"filename":""
+				},
+				{
+					"title":"",
+					"authors":"",
+					"pubinfo":"",
+					"filename":""
+				},
+				{
+					"title":"",
+					"authors":"",
+					"pubinfo":"",
+					"filename":""
+				},
+				{
+					"title":"",
+					"authors":"",
+					"pubinfo":"",
+					"filename":""
+				}
+			]
+		},
+
+		{
+			"year":"2006",
+			"content":[
+				{
+					"title":"",
+					"authors":"",
+					"pubinfo":"",
+					"filename":""
+				},
+
+				{
+					"title":"",
+					"authors":"",
+					"pubinfo":"",
+					"filename":""
+				},
+
+				{
+					"title":"",
+					"authors":"",
+					"pubinfo":"",
+					"filename":""
+				},
+
+				{
+					"title":"",
+					"authors":"",
+					"pubinfo":"",
+					"filename":""
+				},
+
+				{
+					"title":"",
+					"authors":"",
+					"pubinfo":"",
+					"filename":""
+				},
+
+				{
+					"title":"",
+					"authors":"",
+					"pubinfo":"",
+					"filename":""
+				}
+
+			]
+		},
+
+		{
+			"year":"2005",
+			"content":[
+				{
+					"title":"",
+					"authors":"",
+					"pubinfo":"",
+					"filename":""
+				},
+
+				{
+					"title":"",
+					"authors":"",
+					"pubinfo":"",
+					"filename":""
+				}
+
+			]
+		},
+
+		{
+			"year":"2004",
+			"content":[
+				{
+					"title":"",
+					"authors":"",
+					"pubinfo":"",
+					"filename":""
+				},
+
+				{
+					"title":"",
+					"authors":"",
+					"pubinfo":"",
+					"filename":""
+				},
+
+				{
+					"title":"",
+					"authors":"",
+					"pubinfo":"",
+					"filename":""
+				},
+
+				{
+					"title":"",
+					"authors":"",
+					"pubinfo":"",
+					"filename":""
+				},
+
+				{
+					"title":"",
+					"authors":"",
+					"pubinfo":"",
+					"filename":""
+				}
+
+			]
+		},
+
+		{
+			"year":"2003",
+			"content":[
+				{
+					"title":"",
+					"authors":"",
+					"pubinfo":"",
+					"filename":""
+				},
+
+				{
+					"title":"",
+					"authors":"",
+					"pubinfo":"",
+					"filename":""
+				},
+
+				{
+					"title":"",
+					"authors":"",
+					"pubinfo":"",
+					"filename":""
+				}
+
+			]
+		},
+
+		{
+			"year":"2002",
+			"content":[
+				{
+					"title":"",
+					"authors":"",
+					"pubinfo":"",
+					"filename":""
+				},
+
+				{
+					"title":"",
+					"authors":"",
+					"pubinfo":"",
+					"filename":""
+				},
+
+				{
+					"title":"",
+					"authors":"",
+					"pubinfo":"",
+					"filename":""
+				},
+
+				{
+					"title":"",
+					"authors":"",
+					"pubinfo":"",
+					"filename":""
+				}
+
+			]
+		},
+
+		{
+			"year":"2001",
+			"content":[
+				{
+					"title":"",
+					"authors":"",
+					"pubinfo":"",
+					"filename":""
+				}
+			]
+		},
+
+		{
+			"year":"2000",
+			"content":[
+				{
+					"title":"",
+					"authors":"",
+					"pubinfo":"",
+					"filename":""
+				},
+
+				{
+					"title":"",
+					"authors":"",
+					"pubinfo":"",
+					"filename":""
+				}
+			]
+		},
+
+		{
+			"year":"1999",
+			"content":[
+				{
+					"title":"",
+					"authors":"",
+					"pubinfo":"",
+					"filename":""
+				},
+
+				{
+					"title":"",
+					"authors":"",
+					"pubinfo":"",
+					"filename":""
+				}
+			]
+		},
+
+		{
+			"year":"1997",
+			"content":[
+				{
+					"title":"",
+					"authors":"",
+					"pubinfo":"",
+					"filename":""
+				}
+			]
+		},
+
+		{
+			"year":"1996",
+			"content":[
+				{
+					"title":"",
+					"authors":"",
+					"pubinfo":"",
+					"filename":""
+				}
+			]
+		},
+
+		{
+			"year":"1995",
+			"content":[
+				{
+					"title":"",
+					"authors":"",
+					"pubinfo":"",
+					"filename":""
+				}
+			]
+		},
+
+		{
+			"year":"1994",
+			"content":[
+				{
+					"title":"",
+					"authors":"",
+					"pubinfo":"",
+					"filename":""
+				}
+			]
+		},
+
+		{
+			"year":"1991",
+			"content":[
+				{
+					"title":"",
+					"authors":"",
+					"pubinfo":"",
+					"filename":""
+				}
+			]
+		},
+
+		{
+			"year":"1990",
+			"content":[
+				{
+					"title":"",
+					"authors":"",
+					"pubinfo":"",
+					"filename":""
+				}
+			]
+		}
+	]
+}
